@@ -1,0 +1,242 @@
+[
+  {
+    "transaction_id": 1,
+    "customer_id": 127,
+    "product_id": 8,
+    "store_id": 4,
+    "quantity": 4,
+    "transaction_date": "2025-03-31"
+  },
+  {
+    "transaction_id": 2,
+    "customer_id": 105,
+    "product_id": 3,
+    "store_id": 4,
+    "quantity": 5,
+    "transaction_date": "2024-11-12"
+  },
+  {
+    "transaction_id": 3,
+    "customer_id": 116,
+    "product_id": 2,
+    "store_id": 2,
+    "quantity": 3,
+    "transaction_date": "2025-05-01"
+  },
+  {
+    "transaction_id": 4,
+    "customer_id": 120,
+    "product_id": 8,
+    "store_id": 1,
+    "quantity": 1,
+    "transaction_date": "2024-11-02"
+  },
+  {
+    "transaction_id": 5,
+    "customer_id": 105,
+    "product_id": 5,
+    "store_id": 2,
+    "quantity": 1,
+    "transaction_date": "2025-03-17"
+  },
+  {
+    "transaction_id": 6,
+    "customer_id": 110,
+    "product_id": 7,
+    "store_id": 3,
+    "quantity": 5,
+    "transaction_date": "2025-01-04"
+  },
+  {
+    "transaction_id": 7,
+    "customer_id": 110,
+    "product_id": 7,
+    "store_id": 2,
+    "quantity": 5,
+    "transaction_date": "2025-01-01"
+  },
+  {
+    "transaction_id": 8,
+    "customer_id": 126,
+    "product_id": 7,
+    "store_id": 5,
+    "quantity": 2,
+    "transaction_date": "2025-06-08"
+  },
+  {
+    "transaction_id": 9,
+    "customer_id": 123,
+    "product_id": 1,
+    "store_id": 3,
+    "quantity": 2,
+    "transaction_date": "2024-10-08"
+  },
+  {
+    "transaction_id": 10,
+    "customer_id": 124,
+    "product_id": 2,
+    "store_id": 2,
+    "quantity": 5,
+    "transaction_date": "2024-08-27"
+  },
+  {
+    "transaction_id": 11,
+    "customer_id": 102,
+    "product_id": 1,
+    "store_id": 3,
+    "quantity": 2,
+    "transaction_date": "2024-08-11"
+  },
+  {
+    "transaction_id": 12,
+    "customer_id": 108,
+    "product_id": 5,
+    "store_id": 1,
+    "quantity": 4,
+    "transaction_date": "2025-05-26"
+  },
+  {
+    "transaction_id": 13,
+    "customer_id": 104,
+    "product_id": 3,
+    "store_id": 3,
+    "quantity": 4,
+    "transaction_date": "2025-05-04"
+  },
+  {
+    "transaction_id": 14,
+    "customer_id": 120,
+    "product_id": 1,
+    "store_id": 4,
+    "quantity": 5,
+    "transaction_date": "2024-07-17"
+  },
+  {
+    "transaction_id": 15,
+    "customer_id": 121,
+    "product_id": 6,
+    "store_id": 5,
+    "quantity": 5,
+    "transaction_date": "2025-05-19"
+  },
+  {
+    "transaction_id": 16,
+    "customer_id": 118,
+    "product_id": 6,
+    "store_id": 2,
+    "quantity": 4,
+    "transaction_date": "2024-11-29"
+  },
+  {
+    "transaction_id": 17,
+    "customer_id": 109,
+    "product_id": 8,
+    "store_id": 5,
+    "quantity": 5,
+    "transaction_date": "2024-07-10"
+  },
+  {
+    "transaction_id": 18,
+    "customer_id": 103,
+    "product_id": 1,
+    "store_id": 4,
+    "quantity": 3,
+    "transaction_date": "2024-09-05"
+  },
+  {
+    "transaction_id": 19,
+    "customer_id": 116,
+    "product_id": 8,
+    "store_id": 4,
+    "quantity": 4,
+    "transaction_date": "2024-07-14"
+  },
+  {
+    "transaction_id": 20,
+    "customer_id": 130,
+    "product_id": 5,
+    "store_id": 1,
+    "quantity": 2,
+    "transaction_date": "2024-07-30"
+  },
+  {
+    "transaction_id": 21,
+    "customer_id": 105,
+    "product_id": 1,
+    "store_id": 3,
+    "quantity": 5,
+    "transaction_date": "2024-10-02"
+  },
+  {
+    "transaction_id": 22,
+    "customer_id": 107,
+    "product_id": 9,
+    "store_id": 3,
+    "quantity": 4,
+    "transaction_date": "2024-11-16"
+  },
+  {
+    "transaction_id": 23,
+    "customer_id": 122,
+    "product_id": 9,
+    "store_id": 4,
+    "quantity": 2,
+    "transaction_date": "2025-04-30"
+  },
+  {
+    "transaction_id": 24,
+    "customer_id": 125,
+    "product_id": 1,
+    "store_id": 5,
+    "quantity": 1,
+    "transaction_date": "2024-07-14"
+  },
+  {
+    "transaction_id": 25,
+    "customer_id": 116,
+    "product_id": 8,
+    "store_id": 4,
+    "quantity": 5,
+    "transaction_date": "2024-12-13"
+  },
+  {
+    "transaction_id": 26,
+    "customer_id": 126,
+    "product_id": 6,
+    "store_id": 2,
+    "quantity": 2,
+    "transaction_date": "2024-09-21"
+  },
+  {
+    "transaction_id": 27,
+    "customer_id": 127,
+    "product_id": 8,
+    "store_id": 1,
+    "quantity": 1,
+    "transaction_date": "2024-10-10"
+  },
+  {
+    "transaction_id": 28,
+    "customer_id": 101,
+    "product_id": 7,
+    "store_id": 5,
+    "quantity": 3,
+    "transaction_date": "2024-11-15"
+  },
+  {
+    "transaction_id": 29,
+    "customer_id": 119,
+    "product_id": 9,
+    "store_id": 4,
+    "quantity": 2,
+    "transaction_date": "2025-06-03"
+  },
+  {
+    "transaction_id": 30,
+    "customer_id": 116,
+    "product_id": 8,
+    "store_id": 4,
+    "quantity": 5,
+    "transaction_date": "2025-03-16"
+  }
+]

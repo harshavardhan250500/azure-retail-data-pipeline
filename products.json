@@ -1,0 +1,62 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 799.99
+  },
+  {
+    "product_id": 2,
+    "product_name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 1299.49
+  },
+  {
+    "product_id": 3,
+    "product_name": "Yoga Mat",
+    "category": "Fitness",
+    "price": 499
+  },
+  {
+    "product_id": 4,
+    "product_name": "Laptop Stand",
+    "category": "Accessories",
+    "price": 999.99
+  },
+  {
+    "product_id": 5,
+    "product_name": "Notebook Set",
+    "category": "Stationery",
+    "price": 149
+  },
+  {
+    "product_id": 6,
+    "product_name": "Water Bottle",
+    "category": "Fitness",
+    "price": 299
+  },
+  {
+    "product_id": 7,
+    "product_name": "Smartwatch",
+    "category": "Electronics",
+    "price": 4999
+  },
+  {
+    "product_id": 8,
+    "product_name": "Desk Organizer",
+    "category": "Accessories",
+    "price": 399
+  },
+  {
+    "product_id": 9,
+    "product_name": "Dumbbell Set",
+    "category": "Fitness",
+    "price": 1999
+  },
+  {
+    "product_id": 10,
+    "product_name": "Pen Drive 32GB",
+    "category": "Electronics",
+    "price": 599
+  }
+]
